@@ -1,0 +1,97 @@
+/MANIFEST:EMBED
+/MANIFESTINPUT:"C:\Program Files\Epic Games\UE_4.27\Engine\Build\Windows\Resources\Default-Win64.manifest"
+/NOLOGO
+/DEBUG
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/FIXED:No
+/NXCOMPAT
+/STACK:12000000
+/DELAY:UNLOAD
+/DLL
+/PDBALTPATH:%_PDB%
+/OPT:NOREF
+/OPT:NOICF
+/INCREMENTAL:NO
+/ignore:4199
+/ignore:4099
+/DELAYLOAD:"d3d12.dll"
+/DELAYLOAD:"DBGHELP.DLL"
+/LIBPATH:"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\lib\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\lib\um\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\ucrt\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64"
+/NODEFAULTLIB:"LIBCMT"
+/NODEFAULTLIB:"LIBCPMT"
+/NODEFAULTLIB:"LIBCMTD"
+/NODEFAULTLIB:"LIBCPMTD"
+/NODEFAULTLIB:"MSVCRTD"
+/NODEFAULTLIB:"MSVCPRTD"
+/NODEFAULTLIB:"LIBC"
+/NODEFAULTLIB:"LIBCP"
+/NODEFAULTLIB:"LIBCD"
+/NODEFAULTLIB:"LIBCPD"
+/FUNCTIONPADMIN
+"C:\Users\PC\Documents\PvZ_Lab\Intermediate\Build\Win64\PvZ_LabEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\PC\Documents\PvZ_Lab\Intermediate\Build\Win64\UE4Editor\Development\PvZ_Lab\FactoryMethod_Principal.cpp.obj"
+"C:\Users\PC\Documents\PvZ_Lab\Intermediate\Build\Win64\UE4Editor\Development\PvZ_Lab\GeneradorZombieEsqueleto.cpp.obj"
+"C:\Users\PC\Documents\PvZ_Lab\Intermediate\Build\Win64\UE4Editor\Development\PvZ_Lab\GeneradorZombies.cpp.obj"
+"C:\Users\PC\Documents\PvZ_Lab\Intermediate\Build\Win64\UE4Editor\Development\PvZ_Lab\GeneradorZombiesRoca.cpp.obj"
+"C:\Users\PC\Documents\PvZ_Lab\Intermediate\Build\Win64\UE4Editor\Development\PvZ_Lab\Plant.cpp.obj"
+"C:\Users\PC\Documents\PvZ_Lab\Intermediate\Build\Win64\UE4Editor\Development\PvZ_Lab\PvZ_Lab.cpp.obj"
+"C:\Users\PC\Documents\PvZ_Lab\Intermediate\Build\Win64\UE4Editor\Development\PvZ_Lab\PvZ_LabGameMode.cpp.obj"
+"C:\Users\PC\Documents\PvZ_Lab\Intermediate\Build\Win64\UE4Editor\Development\PvZ_Lab\PvZ_LabPawn.cpp.obj"
+"C:\Users\PC\Documents\PvZ_Lab\Intermediate\Build\Win64\UE4Editor\Development\PvZ_Lab\PvZ_LabProjectile.cpp.obj"
+"C:\Users\PC\Documents\PvZ_Lab\Intermediate\Build\Win64\UE4Editor\Development\PvZ_Lab\Zombie.cpp.obj"
+"C:\Users\PC\Documents\PvZ_Lab\Intermediate\Build\Win64\UE4Editor\Development\PvZ_Lab\ZombieEsqueletoSoldado.cpp.obj"
+"C:\Users\PC\Documents\PvZ_Lab\Intermediate\Build\Win64\UE4Editor\Development\PvZ_Lab\ZombieRocaFuego.cpp.obj"
+"C:\Users\PC\Documents\PvZ_Lab\Intermediate\Build\Win64\UE4Editor\Development\PvZ_Lab\ZombieRocaGrande.cpp.obj"
+"C:\Users\PC\Documents\PvZ_Lab\Intermediate\Build\Win64\UE4Editor\Development\PvZ_Lab\Zombies.cpp.obj"
+"C:\Users\PC\Documents\PvZ_Lab\Intermediate\Build\Win64\UE4Editor\Development\PvZ_Lab\FactoryMethod_Principal.gen.cpp.obj"
+"C:\Users\PC\Documents\PvZ_Lab\Intermediate\Build\Win64\UE4Editor\Development\PvZ_Lab\GeneradorZombieEsqueleto.gen.cpp.obj"
+"C:\Users\PC\Documents\PvZ_Lab\Intermediate\Build\Win64\UE4Editor\Development\PvZ_Lab\GeneradorZombies.gen.cpp.obj"
+"C:\Users\PC\Documents\PvZ_Lab\Intermediate\Build\Win64\UE4Editor\Development\PvZ_Lab\GeneradorZombiesRoca.gen.cpp.obj"
+"C:\Users\PC\Documents\PvZ_Lab\Intermediate\Build\Win64\UE4Editor\Development\PvZ_Lab\Plant.gen.cpp.obj"
+"C:\Users\PC\Documents\PvZ_Lab\Intermediate\Build\Win64\UE4Editor\Development\PvZ_Lab\PvZ_Lab.init.gen.cpp.obj"
+"C:\Users\PC\Documents\PvZ_Lab\Intermediate\Build\Win64\UE4Editor\Development\PvZ_Lab\PvZ_LabGameMode.gen.cpp.obj"
+"C:\Users\PC\Documents\PvZ_Lab\Intermediate\Build\Win64\UE4Editor\Development\PvZ_Lab\PvZ_LabPawn.gen.cpp.obj"
+"C:\Users\PC\Documents\PvZ_Lab\Intermediate\Build\Win64\UE4Editor\Development\PvZ_Lab\PvZ_LabProjectile.gen.cpp.obj"
+"C:\Users\PC\Documents\PvZ_Lab\Intermediate\Build\Win64\UE4Editor\Development\PvZ_Lab\Zombie.gen.cpp.obj"
+"C:\Users\PC\Documents\PvZ_Lab\Intermediate\Build\Win64\UE4Editor\Development\PvZ_Lab\ZombieEsqueletoSoldado.gen.cpp.obj"
+"C:\Users\PC\Documents\PvZ_Lab\Intermediate\Build\Win64\UE4Editor\Development\PvZ_Lab\ZombieRocaFuego.gen.cpp.obj"
+"C:\Users\PC\Documents\PvZ_Lab\Intermediate\Build\Win64\UE4Editor\Development\PvZ_Lab\ZombieRocaGrande.gen.cpp.obj"
+"C:\Users\PC\Documents\PvZ_Lab\Intermediate\Build\Win64\UE4Editor\Development\PvZ_Lab\Zombies.gen.cpp.obj"
+"C:\Users\PC\Documents\PvZ_Lab\Intermediate\Build\Win64\UE4Editor\Development\PvZ_Lab\Default.rc2.res"
+"C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\UE4Editor-Engine.lib"
+"C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\Core\UE4Editor-Core.lib"
+"C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\CoreUObject\UE4Editor-CoreUObject.lib"
+"C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\InputCore\UE4Editor-InputCore.lib"
+"delayimp.lib"
+"wininet.lib"
+"rpcrt4.lib"
+"ws2_32.lib"
+"dbghelp.lib"
+"comctl32.lib"
+"Winmm.lib"
+"kernel32.lib"
+"user32.lib"
+"gdi32.lib"
+"winspool.lib"
+"comdlg32.lib"
+"advapi32.lib"
+"shell32.lib"
+"ole32.lib"
+"oleaut32.lib"
+"uuid.lib"
+"odbc32.lib"
+"odbccp32.lib"
+"netapi32.lib"
+"iphlpapi.lib"
+"setupapi.lib"
+"dwmapi.lib"
+"imm32.lib"
+/OUT:"C:\Users\PC\Documents\PvZ_Lab\Binaries\Win64\UE4Editor-PvZ_Lab-0003.dll"
+/IMPLIB:"C:\Users\PC\Documents\PvZ_Lab\Intermediate\Build\Win64\UE4Editor\Development\PvZ_Lab\UE4Editor-PvZ_Lab-0003.suppressed.lib"
+/PDB:"C:\Users\PC\Documents\PvZ_Lab\Binaries\Win64\UE4Editor-PvZ_Lab-0003.pdb"
+/ignore:4078

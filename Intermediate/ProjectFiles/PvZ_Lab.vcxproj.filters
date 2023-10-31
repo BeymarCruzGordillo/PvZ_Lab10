@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\PvZ_Lab.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{3CD71F42-0D3C-45B8-81F0-3F0D1D9C8BBC}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\PvZ_Lab.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\PvZ_LabEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{B3C82A60-DBBC-41AF-AE94-AA3ED89B8A90}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\PvZ_Lab">
+      <UniqueIdentifier>{3D046E89-9DB5-4BBB-AF64-84678823D9EB}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\PvZ_Lab\FactoryMethod_Principal.cpp">
+      <Filter>Source\PvZ_Lab</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PvZ_Lab\FactoryMethod_Principal.h">
+      <Filter>Source\PvZ_Lab</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PvZ_Lab\GeneradorZombieEsqueleto.cpp">
+      <Filter>Source\PvZ_Lab</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PvZ_Lab\GeneradorZombieEsqueleto.h">
+      <Filter>Source\PvZ_Lab</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PvZ_Lab\GeneradorZombies.cpp">
+      <Filter>Source\PvZ_Lab</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PvZ_Lab\GeneradorZombies.h">
+      <Filter>Source\PvZ_Lab</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PvZ_Lab\GeneradorZombiesRoca.cpp">
+      <Filter>Source\PvZ_Lab</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PvZ_Lab\GeneradorZombiesRoca.h">
+      <Filter>Source\PvZ_Lab</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PvZ_Lab\Plant.cpp">
+      <Filter>Source\PvZ_Lab</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PvZ_Lab\Plant.h">
+      <Filter>Source\PvZ_Lab</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\PvZ_Lab\PvZ_Lab.Build.cs">
+      <Filter>Source\PvZ_Lab</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\PvZ_Lab\PvZ_Lab.cpp">
+      <Filter>Source\PvZ_Lab</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PvZ_Lab\PvZ_Lab.h">
+      <Filter>Source\PvZ_Lab</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PvZ_Lab\PvZ_LabGameMode.cpp">
+      <Filter>Source\PvZ_Lab</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PvZ_Lab\PvZ_LabGameMode.h">
+      <Filter>Source\PvZ_Lab</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PvZ_Lab\PvZ_LabPawn.cpp">
+      <Filter>Source\PvZ_Lab</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PvZ_Lab\PvZ_LabPawn.h">
+      <Filter>Source\PvZ_Lab</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PvZ_Lab\PvZ_LabProjectile.cpp">
+      <Filter>Source\PvZ_Lab</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PvZ_Lab\PvZ_LabProjectile.h">
+      <Filter>Source\PvZ_Lab</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PvZ_Lab\Zombie.cpp">
+      <Filter>Source\PvZ_Lab</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PvZ_Lab\Zombie.h">
+      <Filter>Source\PvZ_Lab</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PvZ_Lab\ZombieEsqueletoSoldado.cpp">
+      <Filter>Source\PvZ_Lab</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PvZ_Lab\ZombieEsqueletoSoldado.h">
+      <Filter>Source\PvZ_Lab</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PvZ_Lab\ZombieRocaFuego.cpp">
+      <Filter>Source\PvZ_Lab</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PvZ_Lab\ZombieRocaFuego.h">
+      <Filter>Source\PvZ_Lab</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PvZ_Lab\ZombieRocaGrande.cpp">
+      <Filter>Source\PvZ_Lab</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PvZ_Lab\ZombieRocaGrande.h">
+      <Filter>Source\PvZ_Lab</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PvZ_Lab\Zombies.cpp">
+      <Filter>Source\PvZ_Lab</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PvZ_Lab\Zombies.h">
+      <Filter>Source\PvZ_Lab</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

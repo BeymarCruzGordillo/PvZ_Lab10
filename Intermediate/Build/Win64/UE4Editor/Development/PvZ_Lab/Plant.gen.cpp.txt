@@ -1,0 +1,5 @@
+C:\Users\PC\Documents\PvZ_Lab\Intermediate\Build\Win64\UE4Editor\Development\PvZ_Lab\Definitions.PvZ_Lab.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\PC\Documents\PvZ_Lab\Source\PvZ_Lab/Plant.h
+C:\Users\PC\Documents\PvZ_Lab\Intermediate\Build\Win64\UE4Editor\Inc\PvZ_Lab\Plant.generated.h

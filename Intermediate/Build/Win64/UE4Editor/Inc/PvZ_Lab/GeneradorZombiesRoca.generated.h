@@ -1,0 +1,95 @@
+// Copyright Epic Games, Inc. All Rights Reserved.
+/*===========================================================================
+	Generated code exported from UnrealHeaderTool.
+	DO NOT modify this manually! Edit the corresponding .h files instead!
+===========================================================================*/
+
+#include "UObject/ObjectMacros.h"
+#include "UObject/ScriptMacros.h"
+
+PRAGMA_DISABLE_DEPRECATION_WARNINGS
+#ifdef PVZ_LAB_GeneradorZombiesRoca_generated_h
+#error "GeneradorZombiesRoca.generated.h already included, missing '#pragma once' in GeneradorZombiesRoca.h"
+#endif
+#define PVZ_LAB_GeneradorZombiesRoca_generated_h
+
+#define PvZ_Lab_Source_PvZ_Lab_GeneradorZombiesRoca_h_15_SPARSE_DATA
+#define PvZ_Lab_Source_PvZ_Lab_GeneradorZombiesRoca_h_15_RPC_WRAPPERS
+#define PvZ_Lab_Source_PvZ_Lab_GeneradorZombiesRoca_h_15_RPC_WRAPPERS_NO_PURE_DECLS
+#define PvZ_Lab_Source_PvZ_Lab_GeneradorZombiesRoca_h_15_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesAGeneradorZombiesRoca(); \
+	friend struct Z_Construct_UClass_AGeneradorZombiesRoca_Statics; \
+public: \
+	DECLARE_CLASS(AGeneradorZombiesRoca, AGeneradorZombies, COMPILED_IN_FLAGS(0 | CLASS_Config), CASTCLASS_None, TEXT("/Script/PvZ_Lab"), NO_API) \
+	DECLARE_SERIALIZER(AGeneradorZombiesRoca)
+
+
+#define PvZ_Lab_Source_PvZ_Lab_GeneradorZombiesRoca_h_15_INCLASS \
+private: \
+	static void StaticRegisterNativesAGeneradorZombiesRoca(); \
+	friend struct Z_Construct_UClass_AGeneradorZombiesRoca_Statics; \
+public: \
+	DECLARE_CLASS(AGeneradorZombiesRoca, AGeneradorZombies, COMPILED_IN_FLAGS(0 | CLASS_Config), CASTCLASS_None, TEXT("/Script/PvZ_Lab"), NO_API) \
+	DECLARE_SERIALIZER(AGeneradorZombiesRoca)
+
+
+#define PvZ_Lab_Source_PvZ_Lab_GeneradorZombiesRoca_h_15_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API AGeneradorZombiesRoca(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AGeneradorZombiesRoca) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, AGeneradorZombiesRoca); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AGeneradorZombiesRoca); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API AGeneradorZombiesRoca(AGeneradorZombiesRoca&&); \
+	NO_API AGeneradorZombiesRoca(const AGeneradorZombiesRoca&); \
+public:
+
+
+#define PvZ_Lab_Source_PvZ_Lab_GeneradorZombiesRoca_h_15_ENHANCED_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API AGeneradorZombiesRoca() { }; \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API AGeneradorZombiesRoca(AGeneradorZombiesRoca&&); \
+	NO_API AGeneradorZombiesRoca(const AGeneradorZombiesRoca&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, AGeneradorZombiesRoca); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AGeneradorZombiesRoca); \
+	DEFINE_DEFAULT_CONSTRUCTOR_CALL(AGeneradorZombiesRoca)
+
+
+#define PvZ_Lab_Source_PvZ_Lab_GeneradorZombiesRoca_h_15_PRIVATE_PROPERTY_OFFSET
+#define PvZ_Lab_Source_PvZ_Lab_GeneradorZombiesRoca_h_12_PROLOG
+#define PvZ_Lab_Source_PvZ_Lab_GeneradorZombiesRoca_h_15_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	PvZ_Lab_Source_PvZ_Lab_GeneradorZombiesRoca_h_15_PRIVATE_PROPERTY_OFFSET \
+	PvZ_Lab_Source_PvZ_Lab_GeneradorZombiesRoca_h_15_SPARSE_DATA \
+	PvZ_Lab_Source_PvZ_Lab_GeneradorZombiesRoca_h_15_RPC_WRAPPERS \
+	PvZ_Lab_Source_PvZ_Lab_GeneradorZombiesRoca_h_15_INCLASS \
+	PvZ_Lab_Source_PvZ_Lab_GeneradorZombiesRoca_h_15_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define PvZ_Lab_Source_PvZ_Lab_GeneradorZombiesRoca_h_15_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	PvZ_Lab_Source_PvZ_Lab_GeneradorZombiesRoca_h_15_PRIVATE_PROPERTY_OFFSET \
+	PvZ_Lab_Source_PvZ_Lab_GeneradorZombiesRoca_h_15_SPARSE_DATA \
+	PvZ_Lab_Source_PvZ_Lab_GeneradorZombiesRoca_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
+	PvZ_Lab_Source_PvZ_Lab_GeneradorZombiesRoca_h_15_INCLASS_NO_PURE_DECLS \
+	PvZ_Lab_Source_PvZ_Lab_GeneradorZombiesRoca_h_15_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> PVZ_LAB_API UClass* StaticClass<class AGeneradorZombiesRoca>();
+
+#undef CURRENT_FILE_ID
+#define CURRENT_FILE_ID PvZ_Lab_Source_PvZ_Lab_GeneradorZombiesRoca_h
+
+
+PRAGMA_ENABLE_DEPRECATION_WARNINGS

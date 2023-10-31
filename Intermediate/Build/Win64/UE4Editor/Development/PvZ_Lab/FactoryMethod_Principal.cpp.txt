@@ -1,0 +1,11 @@
+C:\Users\PC\Documents\PvZ_Lab\Intermediate\Build\Win64\UE4Editor\Development\PvZ_Lab\Definitions.PvZ_Lab.h
+C:\Users\PC\Documents\PvZ_Lab\Source\PvZ_Lab\FactoryMethod_Principal.h
+C:\Users\PC\Documents\PvZ_Lab\Intermediate\Build\Win64\UE4Editor\Inc\PvZ_Lab\FactoryMethod_Principal.generated.h
+C:\Users\PC\Documents\PvZ_Lab\Source\PvZ_Lab\GeneradorZombieEsqueleto.h
+C:\Users\PC\Documents\PvZ_Lab\Source\PvZ_Lab\GeneradorZombies.h
+C:\Users\PC\Documents\PvZ_Lab\Source\PvZ_Lab\Zombies.h
+C:\Users\PC\Documents\PvZ_Lab\Intermediate\Build\Win64\UE4Editor\Inc\PvZ_Lab\Zombies.generated.h
+C:\Users\PC\Documents\PvZ_Lab\Intermediate\Build\Win64\UE4Editor\Inc\PvZ_Lab\GeneradorZombies.generated.h
+C:\Users\PC\Documents\PvZ_Lab\Intermediate\Build\Win64\UE4Editor\Inc\PvZ_Lab\GeneradorZombieEsqueleto.generated.h
+C:\Users\PC\Documents\PvZ_Lab\Source\PvZ_Lab\GeneradorZombiesRoca.h
+C:\Users\PC\Documents\PvZ_Lab\Intermediate\Build\Win64\UE4Editor\Inc\PvZ_Lab\GeneradorZombiesRoca.generated.h
